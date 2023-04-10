@@ -42,6 +42,12 @@ git checkout -b chanwoong // 자신의 이름
 
 이번주 부터는 가장 낮은 난이도 부터 차례대로 풀어보는 시간을 가져봅시다.
 
-20문제 이상 풀기 ~!! 쉬우니까 더 풀어도 상관없음 !!
+[비밀번호 찾기](https://www.acmicpc.net/problem/17219)
+[N번째 큰 수](https://www.acmicpc.net/problem/2075)
+[외계인의 기타 연주](https://www.acmicpc.net/problem/2841)
+
+위의 문제 풀고,
+
+10문제 이상 풀기 ~!! 쉬우니까 더 풀어도 상관없음 !!
 
 <br>그럼 모두 파이팅 !!! 🔥🔥🔥
